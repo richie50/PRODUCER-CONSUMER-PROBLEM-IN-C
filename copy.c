@@ -3,9 +3,6 @@
  * Author: 
  * Family Name: FRIMPONG
  * Given Name: RICHMOND
- * Section:SU 2015 Z
- * Student Number: 212-114-641
- * CS Login: CSE23004
  * Created on June 28, 2015, 4:58 AM
  */
 #include <stdio.h>
