@@ -4,8 +4,6 @@
  * Family Name: FRIMPONG
  * Given Name: RICHMOND
  * Section:SU 2015
- * Student Number: 212114641
- * CS Login: CSE23004
  * Created on June 28, 2015, 4:58 AM
  */
 #include <stdio.h>
